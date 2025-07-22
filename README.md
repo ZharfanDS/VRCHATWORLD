@@ -1,1 +1,2 @@
 # VRChatWorld
+*VR CHAT WORLD ASSET AND CODE*
